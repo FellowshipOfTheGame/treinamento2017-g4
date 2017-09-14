@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: b276ae8add0c1a44287afbc04b8ea73c
+timeCreated: 1505253713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ground0
+    21300002: tree0
+    21300004: tree1
+    21300006: tree2
+    21300008: trunk0
+    21300010: trunk2
+    21300012: trunk1
+    21300014: rock0
+    21300016: rock3
+    21300018: rock1
+    21300020: rock2
+    21300022: bush0
+    21300024: forest-render_14
+    21300026: forest-render_16
+    21300028: bush1
+    21300030: forest-render_18
+    21300032: forest-render_19
+    21300034: ground1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -15, y: 14}
+        - {x: -15, y: -8}
+        - {x: -14, y: -13}
+        - {x: -10, y: -15}
+        - {x: 14, y: -15}
+        - {x: 15, y: -12}
+        - {x: 15, y: 14}
+        - {x: 12, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 30}
+        - {x: -7.5, y: 30}
+        - {x: -13.5, y: 28}
+        - {x: -13.5, y: -20}
+        - {x: -7.5, y: -30}
+        - {x: 7.5, y: -30}
+        - {x: 9.5, y: -28}
+        - {x: 13.5, y: -22}
+        - {x: 13.5, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 30}
+        - {x: -10.5, y: 30}
+        - {x: -10.5, y: -28}
+        - {x: -7.5, y: -30}
+        - {x: 4.5, y: -30}
+        - {x: 6.5, y: -28}
+        - {x: 10.5, y: -22}
+        - {x: 10.5, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trunk0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 6.5}
+        - {x: -7.5, y: 4.5}
+        - {x: -7.5, y: -5.5}
+        - {x: -6.5, y: -6.5}
+        - {x: 7.5, y: -6.5}
+        - {x: 7.5, y: 6.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trunk2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 4.5}
+        - {x: -8, y: -3.5}
+        - {x: -7, y: -4.5}
+        - {x: 8, y: -4.5}
+        - {x: 8, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trunk1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 6.5}
+        - {x: -7.5, y: 4.5}
+        - {x: -7.5, y: -6.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 7.5, y: -5.5}
+        - {x: 7.5, y: 6.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 6}
+        - {x: -7, y: -5}
+        - {x: -5, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 7.5}
+        - {x: -7.5, y: 2.5}
+        - {x: -5.5, y: 0.5}
+        - {x: -3.5, y: 0.5}
+        - {x: -7.5, y: -0.5}
+        - {x: -7.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 7.5, y: 1.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 6}
+        - {x: -6.5, y: 5}
+        - {x: -6.5, y: -6}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 1}
+        - {x: 2.5, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -5.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bush0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forest-render_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forest-render_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 49
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 9, y: -8}
+        - {x: 9, y: 3}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bush1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -6}
+        - {x: -6, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forest-render_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 6.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -3.5}
+        - {x: -4, y: -6.5}
+        - {x: 3, y: -6.5}
+        - {x: 8, y: 1.5}
+        - {x: 8, y: 6.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forest-render_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -9, y: 4}
+        - {x: -9, y: -8}
+        - {x: 2, y: -8}
+        - {x: 8, y: -7}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

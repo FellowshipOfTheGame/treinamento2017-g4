@@ -1,0 +1,50 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M    (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.13.5382
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\thiago\Documents\Unity\NewProjectMoveWithSprites\Builds\B2\Build2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.941773 ms
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Enemy_BossOne') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Enemy_BossTwo') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.847992 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 1383.
+Total: 2.309330 ms (FindLiveObjects: 0.081333 ms CreateObjectMapping: 0.056444 ms MarkObjects: 0.460888 ms  DeleteObjects: 1.710219 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a20 -> priority: 1 
+  Thread -> id: 1160 -> priority: 1 
