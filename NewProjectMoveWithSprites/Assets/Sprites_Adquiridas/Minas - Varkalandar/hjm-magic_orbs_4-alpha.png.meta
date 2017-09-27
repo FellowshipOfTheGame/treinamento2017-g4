@@ -1,0 +1,2092 @@
+fileFormatVersion: 2
+guid: 806d6687882445145884d2cfb72ae143
+timeCreated: 1505069859
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hjm-magic_orbs_4-alpha_0
+    21300002: hjm-magic_orbs_4-alpha_1
+    21300004: hjm-magic_orbs_4-alpha_2
+    21300006: hjm-magic_orbs_4-alpha_3
+    21300008: hjm-magic_orbs_4-alpha_4
+    21300010: hjm-magic_orbs_4-alpha_5
+    21300012: hjm-magic_orbs_4-alpha_6
+    21300014: hjm-magic_orbs_4-alpha_7
+    21300016: hjm-magic_orbs_4-alpha_8
+    21300018: hjm-magic_orbs_4-alpha_9
+    21300020: hjm-magic_orbs_4-alpha_11
+    21300022: hjm-magic_orbs_4-alpha_12
+    21300024: hjm-magic_orbs_4-alpha_13
+    21300026: hjm-magic_orbs_4-alpha_14
+    21300028: hjm-magic_orbs_4-alpha_15
+    21300030: hjm-magic_orbs_4-alpha_16
+    21300032: hjm-magic_orbs_4-alpha_17
+    21300034: hjm-magic_orbs_4-alpha_18
+    21300036: hjm-magic_orbs_4-alpha_19
+    21300038: hjm-magic_orbs_4-alpha_20
+    21300040: hjm-magic_orbs_4-alpha_21
+    21300042: hjm-magic_orbs_4-alpha_22
+    21300044: hjm-magic_orbs_4-alpha_23
+    21300046: hjm-magic_orbs_4-alpha_24
+    21300048: hjm-magic_orbs_4-alpha_25
+    21300050: hjm-magic_orbs_4-alpha_26
+    21300052: hjm-magic_orbs_4-alpha_27
+    21300054: hjm-magic_orbs_4-alpha_28
+    21300056: hjm-magic_orbs_4-alpha_29
+    21300058: hjm-magic_orbs_4-alpha_30
+    21300060: hjm-magic_orbs_4-alpha_31
+    21300062: hjm-magic_orbs_4-alpha_32
+    21300064: hjm-magic_orbs_4-alpha_33
+    21300066: hjm-magic_orbs_4-alpha_34
+    21300068: hjm-magic_orbs_4-alpha_35
+    21300070: hjm-magic_orbs_4-alpha_36
+    21300072: hjm-magic_orbs_4-alpha_37
+    21300074: hjm-magic_orbs_4-alpha_38
+    21300076: hjm-magic_orbs_4-alpha_39
+    21300078: hjm-magic_orbs_4-alpha_40
+    21300080: hjm-magic_orbs_4-alpha_41
+    21300082: hjm-magic_orbs_4-alpha_42
+    21300084: hjm-magic_orbs_4-alpha_43
+    21300086: hjm-magic_orbs_4-alpha_44
+    21300088: hjm-magic_orbs_4-alpha_45
+    21300090: hjm-magic_orbs_4-alpha_46
+    21300092: hjm-magic_orbs_4-alpha_47
+    21300094: hjm-magic_orbs_4-alpha_48
+    21300096: hjm-magic_orbs_4-alpha_49
+    21300098: hjm-magic_orbs_4-alpha_50
+    21300100: hjm-magic_orbs_4-alpha_51
+    21300102: hjm-magic_orbs_4-alpha_52
+    21300104: hjm-magic_orbs_4-alpha_53
+    21300106: hjm-magic_orbs_4-alpha_54
+    21300108: hjm-magic_orbs_4-alpha_55
+    21300110: hjm-magic_orbs_4-alpha_56
+    21300112: hjm-magic_orbs_4-alpha_57
+    21300114: hjm-magic_orbs_4-alpha_58
+    21300116: hjm-magic_orbs_4-alpha_59
+    21300118: hjm-magic_orbs_4-alpha_60
+    21300120: hjm-magic_orbs_4-alpha_61
+    21300122: hjm-magic_orbs_4-alpha_62
+    21300124: hjm-magic_orbs_4-alpha_63
+    21300126: hjm-magic_orbs_4-alpha_64
+    21300128: hjm-magic_orbs_4-alpha_65
+    21300130: hjm-magic_orbs_4-alpha_66
+    21300132: hjm-magic_orbs_4-alpha_67
+    21300134: hjm-magic_orbs_4-alpha_68
+    21300136: hjm-magic_orbs_4-alpha_69
+    21300138: hjm-magic_orbs_4-alpha_70
+    21300140: hjm-magic_orbs_4-alpha_71
+    21300142: hjm-magic_orbs_4-alpha_72
+    21300144: hjm-magic_orbs_4-alpha_73
+    21300146: hjm-magic_orbs_4-alpha_74
+    21300148: hjm-magic_orbs_4-alpha_75
+    21300150: hjm-magic_orbs_4-alpha_76
+    21300152: hjm-magic_orbs_4-alpha_77
+    21300154: hjm-magic_orbs_4-alpha_78
+    21300156: hjm-magic_orbs_4-alpha_79
+    21300158: hjm-magic_orbs_4-alpha_80
+    21300160: hjm-magic_orbs_4-alpha_81
+    21300162: hjm-magic_orbs_4-alpha_82
+    21300164: hjm-magic_orbs_4-alpha_83
+    21300166: hjm-magic_orbs_4-alpha_84
+    21300168: hjm-magic_orbs_4-alpha_85
+    21300170: hjm-magic_orbs_4-alpha_86
+    21300172: hjm-magic_orbs_4-alpha_87
+    21300174: hjm-magic_orbs_4-alpha_88
+    21300176: hjm-magic_orbs_4-alpha_89
+    21300178: hjm-magic_orbs_4-alpha_90
+    21300180: hjm-magic_orbs_4-alpha_91
+    21300182: hjm-magic_orbs_4-alpha_92
+    21300184: hjm-magic_orbs_4-alpha_93
+    21300186: hjm-magic_orbs_4-alpha_94
+    21300188: hjm-magic_orbs_4-alpha_95
+    21300190: hjm-magic_orbs_4-alpha_96
+    21300192: hjm-magic_orbs_4-alpha_97
+    21300194: hjm-magic_orbs_4-alpha_98
+    21300196: hjm-magic_orbs_4-alpha_99
+    21300198: hjm-magic_orbs_4-alpha_100
+    21300200: hjm-magic_orbs_4-alpha_101
+    21300202: hjm-magic_orbs_4-alpha_102
+    21300204: hjm-magic_orbs_4-alpha_103
+    21300206: hjm-magic_orbs_4-alpha_104
+    21300208: hjm-magic_orbs_4-alpha_105
+    21300210: hjm-magic_orbs_4-alpha_106
+    21300212: hjm-magic_orbs_4-alpha_107
+    21300214: hjm-magic_orbs_4-alpha_108
+    21300216: hjm-magic_orbs_4-alpha_109
+    21300218: hjm-magic_orbs_4-alpha_110
+    21300220: hjm-magic_orbs_4-alpha_111
+    21300222: hjm-magic_orbs_4-alpha_112
+    21300224: hjm-magic_orbs_4-alpha_113
+    21300226: hjm-magic_orbs_4-alpha_114
+    21300228: hjm-magic_orbs_4-alpha_115
+    21300230: hjm-magic_orbs_4-alpha_116
+    21300232: hjm-magic_orbs_4-alpha_117
+    21300234: hjm-magic_orbs_4-alpha_118
+    21300236: hjm-magic_orbs_4-alpha_119
+    21300238: hjm-magic_orbs_4-alpha_120
+    21300240: hjm-magic_orbs_4-alpha_121
+    21300242: hjm-magic_orbs_4-alpha_122
+    21300244: hjm-magic_orbs_4-alpha_123
+    21300246: hjm-magic_orbs_4-alpha_124
+    21300248: hjm-magic_orbs_4-alpha_125
+    21300250: hjm-magic_orbs_4-alpha_126
+    21300252: hjm-magic_orbs_4-alpha_127
+    21300254: hjm-magic_orbs_4-alpha_128
+    21300256: hjm-magic_orbs_4-alpha_129
+    21300258: hjm-magic_orbs_4-alpha_130
+    21300260: hjm-magic_orbs_4-alpha_131
+    21300262: hjm-magic_orbs_4-alpha_132
+    21300264: hjm-magic_orbs_4-alpha_133
+    21300266: hjm-magic_orbs_4-alpha_134
+    21300268: hjm-magic_orbs_4-alpha_135
+    21300270: hjm-magic_orbs_4-alpha_136
+    21300272: hjm-magic_orbs_4-alpha_137
+    21300274: hjm-magic_orbs_4-alpha_138
+    21300276: hjm-magic_orbs_4-alpha_139
+    21300278: hjm-magic_orbs_4-alpha_140
+    21300280: hjm-magic_orbs_4-alpha_141
+    21300282: hjm-magic_orbs_4-alpha_142
+    21300284: hjm-magic_orbs_4-alpha_143
+    21300286: hjm-magic_orbs_4-alpha_144
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1800
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1865
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1800
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1668
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1734
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1668
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1734
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1668
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1731
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1668
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1602
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1600
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1602
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1602
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1602
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1471
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1537
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1469
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1537
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1471
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1537
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1471
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1537
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1469
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1537
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1471
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1537
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1471
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1340
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1406
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1340
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1406
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1340
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1406
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1340
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1406
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1340
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1406
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1338
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1406
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1340
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_42
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1406
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_43
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_44
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1406
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_45
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1338
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1209
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1274
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1209
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_49
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1274
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_50
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1209
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_51
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1274
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_52
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1209
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_53
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1274
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_54
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1206
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_55
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1274
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_56
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1206
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_57
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1274
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_58
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1209
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_59
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1274
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_60
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1209
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_61
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1274
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_62
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 1209
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_63
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1274
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_64
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1206
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_65
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1274
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_66
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1209
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_67
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1143
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1077
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1143
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1077
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_71
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1143
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_72
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1075
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_73
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1143
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_74
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1077
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_75
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1143
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_76
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1075
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_77
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1143
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_78
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1075
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_79
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1143
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_80
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1075
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_81
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1143
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_82
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1075
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_83
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1143
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_84
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1075
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_85
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1143
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_86
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1077
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_87
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1143
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_88
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1077
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_89
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 1143
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_90
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1011
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_91
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 946
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_92
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1011
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_93
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 946
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_94
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1011
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_95
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 944
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_96
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1011
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_97
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 946
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_98
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1012
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_99
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 946
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_100
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1012
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_101
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 944
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_102
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1011
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_103
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 944
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_104
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1011
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_105
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 944
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_106
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1012
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_107
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 946
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_108
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1012
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_109
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 879
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_110
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 814
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_111
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 879
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_112
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 813
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_113
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 879
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_114
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 813
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_115
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 879
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_116
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 813
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_117
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 879
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_118
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 813
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_119
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 879
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_120
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 813
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_121
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 879
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_122
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 814
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_123
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 879
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_124
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 748
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_125
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 681
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_126
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 748
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_127
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 681
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_128
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 748
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_129
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 681
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_130
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 748
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_131
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 681
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_132
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 748
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_133
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 681
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_134
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 748
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_135
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 617
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_136
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 550
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_137
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 617
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_138
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 550
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_139
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 617
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_140
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 550
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_141
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 617
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_142
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 485
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_143
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 419
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-magic_orbs_4-alpha_144
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 485
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

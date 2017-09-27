@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E20764DC-4C7E-698E-3A96-F273F1C0FDEB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>WebGL:20</UnityBuildTarget>
+    <UnityVersion>5.6.3p2</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_3;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_WEBGL;UNITY_WEBGL_API;UNITY_DISABLE_WEB_VERIFICATION;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VR;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_3;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_WEBGL;UNITY_WEBGL_API;UNITY_DISABLE_WEB_VERIFICATION;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VR;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\AttatchToPlayer.cs" />
+    <Compile Include="Assets\CameraColScript.cs" />
+    <Compile Include="Assets\CameraControllerv2.cs" />
+    <Compile Include="Assets\CreditsOnEnter.cs" />
+    <Compile Include="Assets\ExitClickCredits.cs" />
+    <Compile Include="Assets\HUDC\HUDC_Scripts\GUI_ResolutionFree.cs" />
+    <Compile Include="Assets\HUDC\HUDC_Scripts\PauseMenuController.cs" />
+    <Compile Include="Assets\HUDC\HUDC_Scripts\QuitOnClick.cs" />
+    <Compile Include="Assets\HUDC\HUDC_Scripts\SelectController.cs" />
+    <Compile Include="Assets\HUDC\HUDC_Scripts\TextPrint.cs" />
+    <Compile Include="Assets\HUDC\HUDC_Scripts\UI_Controller.cs" />
+    <Compile Include="Assets\InfinityLifeToggleController.cs" />
+    <Compile Include="Assets\LifeControllerHud.cs" />
+    <Compile Include="Assets\LoadCredits.cs" />
+    <Compile Include="Assets\MAPA\Map_Scripts\GenWorldPt.cs" />
+    <Compile Include="Assets\MAPA\Map_Scripts\MapUpdate.cs" />
+    <Compile Include="Assets\MAPA\Map_Scripts\ObjectsInMap.cs" />
+    <Compile Include="Assets\MAPA\Map_Scripts\OpenDoor.cs" />
+    <Compile Include="Assets\MAPA\Map_Scripts\Spawner.cs" />
+    <Compile Include="Assets\MENU\Scripts\InitialValues.cs" />
+    <Compile Include="Assets\MENU\Scripts\LoadOnEnter.cs" />
+    <Compile Include="Assets\MENU\Scripts\LoadSceneOnClick.cs" />
+    <Compile Include="Assets\MENU\Scripts\MultiplayerToggleController.cs" />
+    <Compile Include="Assets\MENU\Scripts\MusicVolumeSliderController.cs" />
+    <Compile Include="Assets\MENU\Scripts\QuitOnClickz.cs" />
+    <Compile Include="Assets\MENU\Scripts\QuitOnEnter.cs" />
+    <Compile Include="Assets\MENU\Scripts\SelectOnInput.cs" />
+    <Compile Include="Assets\MENU\Scripts\ToggleGroupMultiplayerController.cs" />
+    <Compile Include="Assets\MENU\Scripts\ToggleGroupNoMatchesController.cs" />
+    <Compile Include="Assets\Map_Animation\NPC\NPCtest.cs" />
+    <Compile Include="Assets\NewMuscisScriptTrial.cs" />
+    <Compile Include="Assets\Scripts\Bullets\BulletController.cs" />
+    <Compile Include="Assets\Scripts\Bullets\BulletHealth.cs" />
+    <Compile Include="Assets\Scripts\Bullets\ElectricOrbController.cs" />
+    <Compile Include="Assets\Scripts\Bullets\ElectricOrbHealth.cs" />
+    <Compile Include="Assets\Scripts\Bullets\GrenadeController.cs" />
+    <Compile Include="Assets\Scripts\Bullets\GrenadeHealth.cs" />
+    <Compile Include="Assets\Scripts\Bullets\LaserController3.cs" />
+    <Compile Include="Assets\Scripts\Bullets\LaserHealth.cs" />
+    <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyControllerBossOne.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyControllerMonkey.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyControllerSpider.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyControllerWasp.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyControllerWolfv2.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyDropWeapon.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyStatus.cs" />
+    <Compile Include="Assets\Scripts\Enemies\GunControllerEnemyMonkey.cs" />
+    <Compile Include="Assets\Scripts\Enemies\IndependentWeapons\EnemyControllerBossOneCustomEditor.cs" />
+    <Compile Include="Assets\Scripts\Enemies\IndependentWeapons\GunControllerEnemyBossArm.cs" />
+    <Compile Include="Assets\Scripts\Enemies\IndependentWeapons\GunControllerEnemyBossGunYellow.cs" />
+    <Compile Include="Assets\Scripts\Enemies\IndependentWeapons\GunControllerEnemyBossHand.cs" />
+    <Compile Include="Assets\Scripts\EnemySpawnController.cs" />
+    <Compile Include="Assets\Scripts\EnemySpawnControllerBoss.cs" />
+    <Compile Include="Assets\Scripts\IGetTarget.cs" />
+    <Compile Include="Assets\Scripts\Player\GunController.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GrapplingHookControlerv3.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunColorsRightClick\GunControllerColorBlue.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunColorsRightClick\GunControllerColorGray.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunColorsRightClick\GunControllerColorGreen.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunColorsRightClick\GunControllerColorRed.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunColorsRightClick\GunControllerColorYellow.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunControllerGrenadeLauncher.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunControllerHandLeft.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunControllerHandRight.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunControllerLaserCannon.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunControllerMachineGun.cs" />
+    <Compile Include="Assets\Scripts\PlayerGuns\GunControllerPistol.cs" />
+    <Compile Include="Assets\Scripts\Probability.cs" />
+    <Compile Include="Assets\Scripts\WeaponControllerPickUp.cs" />
+    <Compile Include="Assets\Scripts\zBackups\EnemyControllerWolf.cs" />
+    <Compile Include="Assets\Scripts\zBackups\GrapplingHookController.cs" />
+    <Compile Include="Assets\Scripts\zBackups\GunControllerAndroidArm.cs" />
+    <Compile Include="Assets\Scripts\zBackups\GunControllerAndroidHand.cs" />
+    <Compile Include="Assets\Scripts\zBackups\GunControllerGrapplingHookArm.cs" />
+    <Compile Include="Assets\Scripts\zBackups\GunControllerGrapplingHookHand.cs" />
+    <Compile Include="Assets\Scripts\zBackups\LaserBackupSprite.cs" />
+    <Compile Include="Assets\Scripts\zBackups\LaserController.cs" />
+    <Compile Include="Assets\Scripts\zBackups\LaserController2.cs" />
+    <Compile Include="Assets\Scripts\zBackups\WeaponControllerDrop.cs" />
+    <Compile Include="Assets\Sprites1\ParticleSystems\GrenadeTestController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\CREDITS-Complete.txt" />
+    <None Include="Assets\HUDC\HUDC_Others\Credits.txt" />
+    <None Include="Assets\HUDC\HUDC_Others\Credits_names.txt" />
+    <None Include="Assets\HUDC\HUDC_Others\Credits_names2.txt" />
+    <None Include="Assets\HUDC\HUDC_Sprites\Credits.txt" />
+    <None Include="Assets\MENU\Sprites\Credits.txt" />
+    <None Include="Assets\MENU\Unity Sample UI\Fonts\Jupiter\LICENSE.txt" />
+    <None Include="Assets\MENU\Unity Sample UI\Materials\UI-Default-No-Alpha.shader" />
+    <None Include="Assets\MENU\Unity Sample UI\Textures and Sprites\SF UI\Background\LICENSE.txt" />
+    <None Include="Assets\Sprites\Armas\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Armas - OceansDream\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Criaturas Floresta - Jordan Trudgett\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Criaturas Floresta - Jordan Trudgett\license-ccby3up.txt" />
+    <None Include="Assets\Sprites_Adquiridas\EXTRA - Reemax\credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Granadas Gelo e Fogo - Amon\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Inimigos Bosses Ruinas - Stephen Challener\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\LINKS.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Lasers - Rawdanitsu\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Mapa Floresta - surt\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Mapa Futurista - surt\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Minas - Varkalandar\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\NPC - Nemisys\Credits.txt" />
+    <None Include="Assets\Sprites_Adquiridas\Tiro Arma Amarela - superjoe\Credits.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>
